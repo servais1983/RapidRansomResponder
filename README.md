@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4ee785c6-62f6-483c-a423-4e24a6f2592c)
+![image](https://github.com/user-attachments/assets/965ca636-8668-4df1-b2e4-e13a5b66a7e1)
 
 # 🛡️ RapidRansomResponder (R3)
 
