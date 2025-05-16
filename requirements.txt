@@ -1,0 +1,2 @@
+# Ce projet de base ne requiert aucune dépendance externe
+# À étendre avec de nouvelles fonctionnalités
