@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4ee785c6-62f6-483c-a423-4e24a6f2592c)
+
 # 🛡️ RapidRansomResponder (R3)
 
 Solution CLI de réponse automatisée aux attaques ransomware.
