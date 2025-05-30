@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/965ca636-8668-4df1-b2e4-e13a5b66a7e1)
+![image](ransomresponder.png)
 
 # 🛡️ RapidRansomResponder (R3) Enhanced v2.0
 
